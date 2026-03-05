@@ -1,2 +1,2 @@
-print("hello vilag")
+print("Hello Word!")
 print("Sziasztok")
